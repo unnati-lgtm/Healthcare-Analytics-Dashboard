@@ -14,6 +14,10 @@ This project analyzes healthcare data using Power BI to provide insights into pa
 - Interactive Filters
 
 ## Tools Used
+ -Jupyter Notebook
+ -Numpy
+ -Panda
+ -matplotlib
 - Power BI
 - Power Query
 - DAX
@@ -21,10 +25,6 @@ This project analyzes healthcare data using Power BI to provide insights into pa
 
 ## Dataset
 Healthcare dataset containing patient demographics, billing information, admission type, insurance provider, blood type, and medical conditions.
-
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
 
 ## Key Insights
 - Total Patients: 55.5K
